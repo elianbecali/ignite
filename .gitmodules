@@ -1,0 +1,9 @@
+[submodule "Chapter I/projetos/01-github-explorer"]
+	path = Chapter I/projetos/01-github-explorer
+	url = https://github.com/elianbecali/01-github-explorer
+[submodule "Chapter I/desafios/desafio-conceitos-do-react"]
+	path = Chapter I/desafios/desafio-conceitos-do-react
+	url = https://github.com/elianbecali/desafio-conceitos-do-react
+[submodule "Chapter I/desafios/watchme"]
+	path = Chapter I/desafios/watchme
+	url = https://github.com/elianbecali/watchme
