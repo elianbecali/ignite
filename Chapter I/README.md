@@ -10,7 +10,7 @@
 
 ## Projeto
 
-[Github explorer](/projetos/01-github-explorer)
+[Github explorer](/Chapter%20I/projetos/)
 
 ## Módulos
 
@@ -27,7 +27,7 @@ Nesse desafio, criamos uma aplicação para treinar o que aprendeu até agora no
 
 <br />
 
-[Conceitos do React](/desafios/desafio-conceitos-do-react) 
+[Conceitos do React](/Chapter%20I/desafios) 
 
 ### Componentizando a aplicação
 
@@ -35,4 +35,4 @@ Nesse desafio dividimos uma aplicação em componentes afim de isolar as respons
 
 <br />
 
-[Componentizando a aplicação](/desafios/watchme) 
+[Componentizando a aplicação](/Chapter%20I/desafios) 
