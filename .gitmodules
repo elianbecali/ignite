@@ -7,3 +7,12 @@
 [submodule "Chapter I/desafios/watchme"]
 	path = Chapter I/desafios/watchme
 	url = https://github.com/elianbecali/watchme
+[submodule "Chapter II/projetos/dtmoney"]
+	path = Chapter II/projetos/dtmoney
+	url = https://github.com/elianbecali/dtmoney
+[submodule "Chapter II/desafios/rocketshoes"]
+	path = Chapter II/desafios/rocketshoes
+	url = https://github.com/elianbecali/rocketshoes
+[submodule "Chapter II/desafios/refactoring-classes-ts"]
+	path = Chapter II/desafios/refactoring-classes-ts
+	url = https://github.com/elianbecali/refactoring-classes-ts
