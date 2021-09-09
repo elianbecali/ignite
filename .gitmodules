@@ -16,3 +16,9 @@
 [submodule "Chapter II/desafios/refactoring-classes-ts"]
 	path = Chapter II/desafios/refactoring-classes-ts
 	url = https://github.com/elianbecali/refactoring-classes-ts
+[submodule "Chapter III/desafios/spacetraveling"]
+	path = Chapter III/desafios/spacetraveling
+	url = https://github.com/elianbecali/spacetraveling
+[submodule "Chapter III/projetos/ignews"]
+	path = Chapter III/projetos/ignews
+	url = https://github.com/elianbecali/ignews
