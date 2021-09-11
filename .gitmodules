@@ -22,3 +22,12 @@
 [submodule "Chapter III/projetos/ignews"]
 	path = Chapter III/projetos/ignews
 	url = https://github.com/elianbecali/ignews
+[submodule "Chapter IV/projetos/dashgo"]
+	path = Chapter IV/projetos/dashgo
+	url = https://github.com/elianbecali/dashgo
+[submodule "Chapter IV/desafios/ignite-reactjs-upload-de-imagens"]
+	path = Chapter IV/desafios/ignite-reactjs-upload-de-imagens
+	url = https://github.com/elianbecali/ignite-reactjs-upload-de-imagens
+[submodule "Chapter IV/desafios/worldtrip"]
+	path = Chapter IV/desafios/worldtrip
+	url = https://github.com/elianbecali/worldtrip
