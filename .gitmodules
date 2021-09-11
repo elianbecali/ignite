@@ -31,3 +31,9 @@
 [submodule "Chapter IV/desafios/worldtrip"]
 	path = Chapter IV/desafios/worldtrip
 	url = https://github.com/elianbecali/worldtrip
+[submodule "Chapter V/projetos/performance-react"]
+	path = Chapter V/projetos/performance-react
+	url = https://github.com/elianbecali/performance-react
+[submodule "Chapter V/desafios/watchme"]
+	path = Chapter V/desafios/watchme
+	url = https://github.com/elianbecali/watchme
